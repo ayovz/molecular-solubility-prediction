@@ -55,7 +55,7 @@ I compared two models using an 80/20 train-test split. Here are the performance 
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/ayovz/molecular-solubility-prediction.git](https://github.com/ayovz/molecular-solubility-prediction.git)
+   git clone https://github.com/ayovz/molecular-solubility-prediction.git
 
 2. Install the required packages:
    ```bash
