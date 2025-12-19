@@ -65,7 +65,7 @@ I compared two models using an 80/20 train-test split. Here are the performance 
    ```bash
    jupyter notebook solubility_model.ipynb
 
-🤝 Acknowledgments
+## 🤝 Acknowledgments
 
 This project was built following the "Build your first machine learning model in Python" tutorial by Data Professor.
 
